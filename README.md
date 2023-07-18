@@ -32,7 +32,7 @@
 
 <h3 align="left">I am Sarvar from Uzbekistan and I work as a Web Developer. I usually write code in Java and Java Script. For frontend I use React and for backend I use Spring. I am interested in learning new technologies and programming languages</h3>
 
-###
+<!-- ### -->
 
 <!-- <br clear="both"> -->
 
@@ -41,9 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibytee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> -->
 
-###
+<!-- ### -->
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <img src="https://raw.githubusercontent.com/ibytee/ibytee/output/snake.svg" alt="Snake animation" />
 
