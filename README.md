@@ -34,7 +34,7 @@
 
 <div style="display: flex; align-items: center;">
   <img align="left" height="200" src="./media/giphy.gif" style="margin-right: 20px;"/>
-  <h4 style="text-align: justify;">I am Sarvar from Uzbekistan and I work as a Web Developer. I usually write code in Java and JavaScript. For frontend, I use React, and for backend, I use Spring. I am interested in learning new technologies and programming languages.</h4>
+  <h3 style="text-align: justify;">I am Sarvar from Uzbekistan and I work as a Web Developer. I usually write code in Java and JavaScript. For frontend, I use React, and for backend, I use Spring. I am interested in learning new technologies and programming languages.</h3>
 </div>
 
 ###
