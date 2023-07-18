@@ -7,7 +7,6 @@
   <!-- Convert your Markdown content to HTML -->
   <div class="markdown-content">
     <h2 align="left">Hi there 👋</h2>
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
