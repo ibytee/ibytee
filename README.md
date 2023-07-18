@@ -39,9 +39,6 @@
 
 ###
 
-| ![Image](./media/giphy.gif) | I am Sarvar from Uzbekistan and I work as a Web Developer. I usually write code in Java and JavaScript. For frontend, I use React, and for backend, I use Spring. I am interested in learning new technologies and programming languages. |
-| :-------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ibytee/ibytee/output/snake.svg" alt="Snake animation" />
