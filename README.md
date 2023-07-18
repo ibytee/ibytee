@@ -1,5 +1,12 @@
-<h2 align="left">Hi there 👋</h2>
-
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <!-- Convert your Markdown content to HTML -->
+  <div class="markdown-content">
+    <h2 align="left">Hi there 👋</h2>
 ###
 
 <div align="left">
@@ -26,12 +33,10 @@
 
 ###
 
-<img align="left" height="200" src="./media/giphy.gif"/>
-
-###
-
-<h3 align="left">I am Sarvar from Uzbekistan and I work as a Web Developer. I usually write code in Java and Java Script. For frontend I use React and for backend I use Spring. I am interested in learning new technologies and programming languages</h3>
-
+<div style="display: flex; align-items: center;">
+  <img align="left" height="200" src="./media/giphy.gif" style="margin-right: 20px;"/>
+  <h3 style="text-align: justify;">I am Sarvar from Uzbekistan and I work as a Web Developer. I usually write code in Java and JavaScript. For frontend, I use React, and for backend, I use Spring. I am interested in learning new technologies and programming languages.</h3>
+</div>
 
 ###
 
@@ -40,3 +45,8 @@
 <img src="https://raw.githubusercontent.com/ibytee/ibytee/output/snake.svg" alt="Snake animation" />
 
 ###
+
+  </div>
+  
+</body>
+</html>
